@@ -1,4 +1,4 @@
-# Gym Exercises Repository Documentation
+# Gym Exercises
 
 This repository contains the source code for Gym Exercises, a web application that allows users to carry out exercises by showing them relevant steps and tutorials.
 
